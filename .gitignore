@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.reference-source/
+vite-preview.out.log
+vite-preview.err.log

@@ -1,0 +1,1 @@
+export const storeConfig = { name: 'Stefany Boutique', instagram: '@stefanyboutique', whatsappUrl: 'https://wa.me/593999999999', location: 'La boutique más grande de Quito', address: 'Quito, Ecuador', hours: 'Lun — Sáb · 10:00 a 19:00' }
